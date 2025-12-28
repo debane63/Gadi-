@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node RcOwnerNo.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  }
+}
